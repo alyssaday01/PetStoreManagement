@@ -1,12 +1,12 @@
-## Intro to Computer Science II: Project 3
+# Intro to Computer Science II: Project 3
 
-# Coding Language: Java
+## Coding Language: Java
 
 This project was completed in an intro to computer science course in 2022.
 
 The Pet Store Management System is a coding project that allows users to efficiently manage a pet store's operations. This project leverages object-oriented programming principles, including class inheritance, interfaces, array list manipulation, and specification classes to create a comprehensive system for managing different types of pets and store memberships.
 
-# Key Components:
+## Key Components:
 
 - Object Hierarchy: The system defines three main pet types: cats, dogs, and exotic pets, each represented by separate classes. These classes inherit common attributes and methods from a base pet class.
 
