@@ -1,4 +1,5 @@
-# Intro to Computer Science II: Project 3
+# Pet Store Management
+## Intro to Computer Science II: Project 3
 
 ## Coding Language: Java
 
