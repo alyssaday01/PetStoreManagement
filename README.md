@@ -14,7 +14,7 @@ The Pet Store Management System is a coding project that allows users to efficie
 
 - Driver Class: The central class, named "PetStore," serves as the entry point for users. It provides a menu-driven interface to access various functions and operations.
 
-# Functions Available to the User:
+## Functions Available to the User:
 
 - Buy a New Pet: Users can add new pets to the store's inventory by specifying the pet type (cat, dog, or exotic pet), its name, age, breed, and price. The pet will be stored in an ArrayList for future reference.
 
